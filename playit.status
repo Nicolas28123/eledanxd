@@ -1,448 +1,1168 @@
-8[0mno command provided, doing auto run[2J8[0mchecking if secret key is valid[2J8[0msecret key valid, agent has 2 tunnels[2J8[0mstarting up tunnel connection[2J8[0mtunnel running[2J8[0mplayit (v0.15.13): 1719599610141 tunnel running, 2 tunnels registered
+8[0mno command provided, doing auto run[2J8[0mchecking if secret key is valid[2J8[0msecret key valid, agent has 2 tunnels[2J8[0mstarting up tunnel connection[2J8[0mtunnel running[2J8[0mplayit (v0.15.13): 1719725874952 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 cars-dies.gl.at.ply.gg:3486 => 127.0.0.1:3486 (minecraft-bedrock)
 living-pn.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719599613184 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719725877988 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 cars-dies.gl.at.ply.gg:3486 => 127.0.0.1:3486 (minecraft-bedrock)
 living-pn.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719599616300 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719725881040 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 cars-dies.gl.at.ply.gg:3486 => 127.0.0.1:3486 (minecraft-bedrock)
 living-pn.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719599619364 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719725884090 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 cars-dies.gl.at.ply.gg:3486 => 127.0.0.1:3486 (minecraft-bedrock)
 living-pn.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719599622412 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719725887133 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 cars-dies.gl.at.ply.gg:3486 => 127.0.0.1:3486 (minecraft-bedrock)
 living-pn.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719599625464 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719725890181 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 cars-dies.gl.at.ply.gg:3486 => 127.0.0.1:3486 (minecraft-bedrock)
 living-pn.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719599628521 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719725893226 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 cars-dies.gl.at.ply.gg:3486 => 127.0.0.1:3486 (minecraft-bedrock)
 living-pn.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719599631568 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719725896268 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 cars-dies.gl.at.ply.gg:3486 => 127.0.0.1:3486 (minecraft-bedrock)
 living-pn.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719599634671 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719725899301 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 cars-dies.gl.at.ply.gg:3486 => 127.0.0.1:3486 (minecraft-bedrock)
 living-pn.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719599637729 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719725902359 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 cars-dies.gl.at.ply.gg:3486 => 127.0.0.1:3486 (minecraft-bedrock)
 living-pn.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719599640804 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719725905421 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 cars-dies.gl.at.ply.gg:3486 => 127.0.0.1:3486 (minecraft-bedrock)
 living-pn.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719599643863 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719725908493 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 cars-dies.gl.at.ply.gg:3486 => 127.0.0.1:3486 (minecraft-bedrock)
 living-pn.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719599646915 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719725911561 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 cars-dies.gl.at.ply.gg:3486 => 127.0.0.1:3486 (minecraft-bedrock)
 living-pn.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719599649977 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719725914596 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 cars-dies.gl.at.ply.gg:3486 => 127.0.0.1:3486 (minecraft-bedrock)
 living-pn.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719599653022 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719725917637 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 cars-dies.gl.at.ply.gg:3486 => 127.0.0.1:3486 (minecraft-bedrock)
 living-pn.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719599656082 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719725920710 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 cars-dies.gl.at.ply.gg:3486 => 127.0.0.1:3486 (minecraft-bedrock)
 living-pn.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719599659328 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719725923770 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 cars-dies.gl.at.ply.gg:3486 => 127.0.0.1:3486 (minecraft-bedrock)
 living-pn.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719599662391 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719725926808 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 cars-dies.gl.at.ply.gg:3486 => 127.0.0.1:3486 (minecraft-bedrock)
 living-pn.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719599665466 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719725929853 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 cars-dies.gl.at.ply.gg:3486 => 127.0.0.1:3486 (minecraft-bedrock)
 living-pn.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719599668507 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719725932926 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 cars-dies.gl.at.ply.gg:3486 => 127.0.0.1:3486 (minecraft-bedrock)
 living-pn.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719599671545 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719725935974 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 cars-dies.gl.at.ply.gg:3486 => 127.0.0.1:3486 (minecraft-bedrock)
 living-pn.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719599674585 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719725939015 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 cars-dies.gl.at.ply.gg:3486 => 127.0.0.1:3486 (minecraft-bedrock)
 living-pn.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719599677633 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719725942076 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 cars-dies.gl.at.ply.gg:3486 => 127.0.0.1:3486 (minecraft-bedrock)
 living-pn.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719599680724 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719725945123 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 cars-dies.gl.at.ply.gg:3486 => 127.0.0.1:3486 (minecraft-bedrock)
 living-pn.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719599683773 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719725948166 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 cars-dies.gl.at.ply.gg:3486 => 127.0.0.1:3486 (minecraft-bedrock)
 living-pn.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719599686814 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719725951200 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 cars-dies.gl.at.ply.gg:3486 => 127.0.0.1:3486 (minecraft-bedrock)
 living-pn.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719599689885 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719725954259 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 cars-dies.gl.at.ply.gg:3486 => 127.0.0.1:3486 (minecraft-bedrock)
 living-pn.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719599692924 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719725957332 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 cars-dies.gl.at.ply.gg:3486 => 127.0.0.1:3486 (minecraft-bedrock)
 living-pn.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719599695964 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719725960369 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 cars-dies.gl.at.ply.gg:3486 => 127.0.0.1:3486 (minecraft-bedrock)
 living-pn.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719599699010 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719725963422 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 cars-dies.gl.at.ply.gg:3486 => 127.0.0.1:3486 (minecraft-bedrock)
 living-pn.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719599702135 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719725966453 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 cars-dies.gl.at.ply.gg:3486 => 127.0.0.1:3486 (minecraft-bedrock)
 living-pn.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719599705268 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719725969495 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 cars-dies.gl.at.ply.gg:3486 => 127.0.0.1:3486 (minecraft-bedrock)
 living-pn.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719599708335 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719725972531 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 cars-dies.gl.at.ply.gg:3486 => 127.0.0.1:3486 (minecraft-bedrock)
 living-pn.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719599711404 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719725975605 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 cars-dies.gl.at.ply.gg:3486 => 127.0.0.1:3486 (minecraft-bedrock)
 living-pn.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719599714487 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719725978707 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 cars-dies.gl.at.ply.gg:3486 => 127.0.0.1:3486 (minecraft-bedrock)
 living-pn.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719599717537 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719725981749 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 cars-dies.gl.at.ply.gg:3486 => 127.0.0.1:3486 (minecraft-bedrock)
 living-pn.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719599720632 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719725984793 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 cars-dies.gl.at.ply.gg:3486 => 127.0.0.1:3486 (minecraft-bedrock)
 living-pn.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719599723719 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719725987862 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 cars-dies.gl.at.ply.gg:3486 => 127.0.0.1:3486 (minecraft-bedrock)
 living-pn.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719599726883 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719725990924 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 cars-dies.gl.at.ply.gg:3486 => 127.0.0.1:3486 (minecraft-bedrock)
 living-pn.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719599729991 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719725993955 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 cars-dies.gl.at.ply.gg:3486 => 127.0.0.1:3486 (minecraft-bedrock)
 living-pn.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719599733059 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719725996989 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 cars-dies.gl.at.ply.gg:3486 => 127.0.0.1:3486 (minecraft-bedrock)
 living-pn.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719599736119 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719726000027 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 cars-dies.gl.at.ply.gg:3486 => 127.0.0.1:3486 (minecraft-bedrock)
 living-pn.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719599739180 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719726003122 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 cars-dies.gl.at.ply.gg:3486 => 127.0.0.1:3486 (minecraft-bedrock)
 living-pn.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719599742240 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719726006251 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 cars-dies.gl.at.ply.gg:3486 => 127.0.0.1:3486 (minecraft-bedrock)
 living-pn.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719599745296 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719726009285 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 cars-dies.gl.at.ply.gg:3486 => 127.0.0.1:3486 (minecraft-bedrock)
 living-pn.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719599748349 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719726012319 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 cars-dies.gl.at.ply.gg:3486 => 127.0.0.1:3486 (minecraft-bedrock)
 living-pn.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719599751447 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719726015370 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 cars-dies.gl.at.ply.gg:3486 => 127.0.0.1:3486 (minecraft-bedrock)
 living-pn.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719599754481 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719726018402 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 cars-dies.gl.at.ply.gg:3486 => 127.0.0.1:3486 (minecraft-bedrock)
 living-pn.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719599757531 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719726021446 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 cars-dies.gl.at.ply.gg:3486 => 127.0.0.1:3486 (minecraft-bedrock)
 living-pn.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719599760600 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719726024500 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 cars-dies.gl.at.ply.gg:3486 => 127.0.0.1:3486 (minecraft-bedrock)
 living-pn.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719599763667 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719726027545 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 cars-dies.gl.at.ply.gg:3486 => 127.0.0.1:3486 (minecraft-bedrock)
 living-pn.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719599766722 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719726030626 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 cars-dies.gl.at.ply.gg:3486 => 127.0.0.1:3486 (minecraft-bedrock)
 living-pn.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719599769791 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719726033673 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 cars-dies.gl.at.ply.gg:3486 => 127.0.0.1:3486 (minecraft-bedrock)
 living-pn.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719599772858 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719726036722 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 cars-dies.gl.at.ply.gg:3486 => 127.0.0.1:3486 (minecraft-bedrock)
 living-pn.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719599775919 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719726039754 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 cars-dies.gl.at.ply.gg:3486 => 127.0.0.1:3486 (minecraft-bedrock)
 living-pn.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719599778989 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719726042787 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 cars-dies.gl.at.ply.gg:3486 => 127.0.0.1:3486 (minecraft-bedrock)
 living-pn.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719599782061 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719726045837 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 cars-dies.gl.at.ply.gg:3486 => 127.0.0.1:3486 (minecraft-bedrock)
 living-pn.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719599785180 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719726048882 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 cars-dies.gl.at.ply.gg:3486 => 127.0.0.1:3486 (minecraft-bedrock)
 living-pn.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719599788252 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719726051977 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 cars-dies.gl.at.ply.gg:3486 => 127.0.0.1:3486 (minecraft-bedrock)
 living-pn.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719599791295 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719726055012 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 cars-dies.gl.at.ply.gg:3486 => 127.0.0.1:3486 (minecraft-bedrock)
 living-pn.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719599794355 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719726058113 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 cars-dies.gl.at.ply.gg:3486 => 127.0.0.1:3486 (minecraft-bedrock)
 living-pn.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719599797493 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719726061173 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 cars-dies.gl.at.ply.gg:3486 => 127.0.0.1:3486 (minecraft-bedrock)
 living-pn.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719599800644 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719726064235 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 cars-dies.gl.at.ply.gg:3486 => 127.0.0.1:3486 (minecraft-bedrock)
 living-pn.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719599803738 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719726067279 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 cars-dies.gl.at.ply.gg:3486 => 127.0.0.1:3486 (minecraft-bedrock)
 living-pn.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719599806815 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719726070310 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 cars-dies.gl.at.ply.gg:3486 => 127.0.0.1:3486 (minecraft-bedrock)
 living-pn.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719599809859 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719726073350 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 cars-dies.gl.at.ply.gg:3486 => 127.0.0.1:3486 (minecraft-bedrock)
 living-pn.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719599812913 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719726076424 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 cars-dies.gl.at.ply.gg:3486 => 127.0.0.1:3486 (minecraft-bedrock)
 living-pn.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719599816006 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719726079467 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 cars-dies.gl.at.ply.gg:3486 => 127.0.0.1:3486 (minecraft-bedrock)
 living-pn.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719599819102 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719726082636 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 cars-dies.gl.at.ply.gg:3486 => 127.0.0.1:3486 (minecraft-bedrock)
 living-pn.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719599822206 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719726085687 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 cars-dies.gl.at.ply.gg:3486 => 127.0.0.1:3486 (minecraft-bedrock)
 living-pn.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719599825274 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719726088733 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 cars-dies.gl.at.ply.gg:3486 => 127.0.0.1:3486 (minecraft-bedrock)
 living-pn.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719599828361 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719726091769 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 cars-dies.gl.at.ply.gg:3486 => 127.0.0.1:3486 (minecraft-bedrock)
 living-pn.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719599831416 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719726094800 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 cars-dies.gl.at.ply.gg:3486 => 127.0.0.1:3486 (minecraft-bedrock)
 living-pn.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719599834476 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719726097873 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 cars-dies.gl.at.ply.gg:3486 => 127.0.0.1:3486 (minecraft-bedrock)
 living-pn.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719599837519 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719726100922 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+cars-dies.gl.at.ply.gg:3486 => 127.0.0.1:3486 (minecraft-bedrock)
+living-pn.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719726103969 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+cars-dies.gl.at.ply.gg:3486 => 127.0.0.1:3486 (minecraft-bedrock)
+living-pn.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719726107013 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+cars-dies.gl.at.ply.gg:3486 => 127.0.0.1:3486 (minecraft-bedrock)
+living-pn.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719726110111 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+cars-dies.gl.at.ply.gg:3486 => 127.0.0.1:3486 (minecraft-bedrock)
+living-pn.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719726113177 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+cars-dies.gl.at.ply.gg:3486 => 127.0.0.1:3486 (minecraft-bedrock)
+living-pn.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719726116253 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+cars-dies.gl.at.ply.gg:3486 => 127.0.0.1:3486 (minecraft-bedrock)
+living-pn.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719726119326 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+cars-dies.gl.at.ply.gg:3486 => 127.0.0.1:3486 (minecraft-bedrock)
+living-pn.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719726122473 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+cars-dies.gl.at.ply.gg:3486 => 127.0.0.1:3486 (minecraft-bedrock)
+living-pn.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719726125519 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+cars-dies.gl.at.ply.gg:3486 => 127.0.0.1:3486 (minecraft-bedrock)
+living-pn.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719726128554 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+cars-dies.gl.at.ply.gg:3486 => 127.0.0.1:3486 (minecraft-bedrock)
+living-pn.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719726131605 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+cars-dies.gl.at.ply.gg:3486 => 127.0.0.1:3486 (minecraft-bedrock)
+living-pn.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719726134654 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+cars-dies.gl.at.ply.gg:3486 => 127.0.0.1:3486 (minecraft-bedrock)
+living-pn.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719726137695 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+cars-dies.gl.at.ply.gg:3486 => 127.0.0.1:3486 (minecraft-bedrock)
+living-pn.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719726140740 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+cars-dies.gl.at.ply.gg:3486 => 127.0.0.1:3486 (minecraft-bedrock)
+living-pn.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719726143815 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+cars-dies.gl.at.ply.gg:3486 => 127.0.0.1:3486 (minecraft-bedrock)
+living-pn.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719726146867 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+cars-dies.gl.at.ply.gg:3486 => 127.0.0.1:3486 (minecraft-bedrock)
+living-pn.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719726149915 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+cars-dies.gl.at.ply.gg:3486 => 127.0.0.1:3486 (minecraft-bedrock)
+living-pn.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719726152953 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+cars-dies.gl.at.ply.gg:3486 => 127.0.0.1:3486 (minecraft-bedrock)
+living-pn.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719726155994 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+cars-dies.gl.at.ply.gg:3486 => 127.0.0.1:3486 (minecraft-bedrock)
+living-pn.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719726159041 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+cars-dies.gl.at.ply.gg:3486 => 127.0.0.1:3486 (minecraft-bedrock)
+living-pn.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719726162095 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+cars-dies.gl.at.ply.gg:3486 => 127.0.0.1:3486 (minecraft-bedrock)
+living-pn.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719726165194 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+cars-dies.gl.at.ply.gg:3486 => 127.0.0.1:3486 (minecraft-bedrock)
+living-pn.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719726168248 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+cars-dies.gl.at.ply.gg:3486 => 127.0.0.1:3486 (minecraft-bedrock)
+living-pn.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719726171289 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+cars-dies.gl.at.ply.gg:3486 => 127.0.0.1:3486 (minecraft-bedrock)
+living-pn.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719726174344 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+cars-dies.gl.at.ply.gg:3486 => 127.0.0.1:3486 (minecraft-bedrock)
+living-pn.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719726177394 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+cars-dies.gl.at.ply.gg:3486 => 127.0.0.1:3486 (minecraft-bedrock)
+living-pn.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719726180428 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+cars-dies.gl.at.ply.gg:3486 => 127.0.0.1:3486 (minecraft-bedrock)
+living-pn.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719726183496 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+cars-dies.gl.at.ply.gg:3486 => 127.0.0.1:3486 (minecraft-bedrock)
+living-pn.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719726186630 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+cars-dies.gl.at.ply.gg:3486 => 127.0.0.1:3486 (minecraft-bedrock)
+living-pn.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719726189680 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+cars-dies.gl.at.ply.gg:3486 => 127.0.0.1:3486 (minecraft-bedrock)
+living-pn.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719726192723 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+cars-dies.gl.at.ply.gg:3486 => 127.0.0.1:3486 (minecraft-bedrock)
+living-pn.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719726195797 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+cars-dies.gl.at.ply.gg:3486 => 127.0.0.1:3486 (minecraft-bedrock)
+living-pn.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719726198843 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+cars-dies.gl.at.ply.gg:3486 => 127.0.0.1:3486 (minecraft-bedrock)
+living-pn.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719726201888 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+cars-dies.gl.at.ply.gg:3486 => 127.0.0.1:3486 (minecraft-bedrock)
+living-pn.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719726204936 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+cars-dies.gl.at.ply.gg:3486 => 127.0.0.1:3486 (minecraft-bedrock)
+living-pn.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719726208002 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+cars-dies.gl.at.ply.gg:3486 => 127.0.0.1:3486 (minecraft-bedrock)
+living-pn.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719726211042 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+cars-dies.gl.at.ply.gg:3486 => 127.0.0.1:3486 (minecraft-bedrock)
+living-pn.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719726214159 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+cars-dies.gl.at.ply.gg:3486 => 127.0.0.1:3486 (minecraft-bedrock)
+living-pn.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719726217209 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+cars-dies.gl.at.ply.gg:3486 => 127.0.0.1:3486 (minecraft-bedrock)
+living-pn.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719726220251 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+cars-dies.gl.at.ply.gg:3486 => 127.0.0.1:3486 (minecraft-bedrock)
+living-pn.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719726223301 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+cars-dies.gl.at.ply.gg:3486 => 127.0.0.1:3486 (minecraft-bedrock)
+living-pn.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719726226366 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+cars-dies.gl.at.ply.gg:3486 => 127.0.0.1:3486 (minecraft-bedrock)
+living-pn.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719726229419 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+cars-dies.gl.at.ply.gg:3486 => 127.0.0.1:3486 (minecraft-bedrock)
+living-pn.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719726232470 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+cars-dies.gl.at.ply.gg:3486 => 127.0.0.1:3486 (minecraft-bedrock)
+living-pn.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719726235528 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+cars-dies.gl.at.ply.gg:3486 => 127.0.0.1:3486 (minecraft-bedrock)
+living-pn.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719726238578 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+cars-dies.gl.at.ply.gg:3486 => 127.0.0.1:3486 (minecraft-bedrock)
+living-pn.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719726241611 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+cars-dies.gl.at.ply.gg:3486 => 127.0.0.1:3486 (minecraft-bedrock)
+living-pn.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719726244664 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+cars-dies.gl.at.ply.gg:3486 => 127.0.0.1:3486 (minecraft-bedrock)
+living-pn.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719726247726 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+cars-dies.gl.at.ply.gg:3486 => 127.0.0.1:3486 (minecraft-bedrock)
+living-pn.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719726250779 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+cars-dies.gl.at.ply.gg:3486 => 127.0.0.1:3486 (minecraft-bedrock)
+living-pn.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719726253834 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+cars-dies.gl.at.ply.gg:3486 => 127.0.0.1:3486 (minecraft-bedrock)
+living-pn.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719726256912 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+cars-dies.gl.at.ply.gg:3486 => 127.0.0.1:3486 (minecraft-bedrock)
+living-pn.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719726259949 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+cars-dies.gl.at.ply.gg:3486 => 127.0.0.1:3486 (minecraft-bedrock)
+living-pn.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719726262984 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+cars-dies.gl.at.ply.gg:3486 => 127.0.0.1:3486 (minecraft-bedrock)
+living-pn.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719726266032 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+cars-dies.gl.at.ply.gg:3486 => 127.0.0.1:3486 (minecraft-bedrock)
+living-pn.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719726269065 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+cars-dies.gl.at.ply.gg:3486 => 127.0.0.1:3486 (minecraft-bedrock)
+living-pn.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719726272100 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+cars-dies.gl.at.ply.gg:3486 => 127.0.0.1:3486 (minecraft-bedrock)
+living-pn.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719726275132 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+cars-dies.gl.at.ply.gg:3486 => 127.0.0.1:3486 (minecraft-bedrock)
+living-pn.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719726278184 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+cars-dies.gl.at.ply.gg:3486 => 127.0.0.1:3486 (minecraft-bedrock)
+living-pn.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719726281246 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+cars-dies.gl.at.ply.gg:3486 => 127.0.0.1:3486 (minecraft-bedrock)
+living-pn.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719726284290 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+cars-dies.gl.at.ply.gg:3486 => 127.0.0.1:3486 (minecraft-bedrock)
+living-pn.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719726287322 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+cars-dies.gl.at.ply.gg:3486 => 127.0.0.1:3486 (minecraft-bedrock)
+living-pn.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719726290370 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+cars-dies.gl.at.ply.gg:3486 => 127.0.0.1:3486 (minecraft-bedrock)
+living-pn.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719726293430 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+cars-dies.gl.at.ply.gg:3486 => 127.0.0.1:3486 (minecraft-bedrock)
+living-pn.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719726296491 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+cars-dies.gl.at.ply.gg:3486 => 127.0.0.1:3486 (minecraft-bedrock)
+living-pn.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719726299539 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+cars-dies.gl.at.ply.gg:3486 => 127.0.0.1:3486 (minecraft-bedrock)
+living-pn.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719726302601 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+cars-dies.gl.at.ply.gg:3486 => 127.0.0.1:3486 (minecraft-bedrock)
+living-pn.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719726305677 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+cars-dies.gl.at.ply.gg:3486 => 127.0.0.1:3486 (minecraft-bedrock)
+living-pn.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719726308725 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+cars-dies.gl.at.ply.gg:3486 => 127.0.0.1:3486 (minecraft-bedrock)
+living-pn.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719726311771 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+cars-dies.gl.at.ply.gg:3486 => 127.0.0.1:3486 (minecraft-bedrock)
+living-pn.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719726314807 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+cars-dies.gl.at.ply.gg:3486 => 127.0.0.1:3486 (minecraft-bedrock)
+living-pn.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719726317854 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+cars-dies.gl.at.ply.gg:3486 => 127.0.0.1:3486 (minecraft-bedrock)
+living-pn.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719726320926 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+cars-dies.gl.at.ply.gg:3486 => 127.0.0.1:3486 (minecraft-bedrock)
+living-pn.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719726324019 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+cars-dies.gl.at.ply.gg:3486 => 127.0.0.1:3486 (minecraft-bedrock)
+living-pn.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719726327063 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+cars-dies.gl.at.ply.gg:3486 => 127.0.0.1:3486 (minecraft-bedrock)
+living-pn.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719726330140 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+cars-dies.gl.at.ply.gg:3486 => 127.0.0.1:3486 (minecraft-bedrock)
+living-pn.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719726333199 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+cars-dies.gl.at.ply.gg:3486 => 127.0.0.1:3486 (minecraft-bedrock)
+living-pn.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719726336282 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+cars-dies.gl.at.ply.gg:3486 => 127.0.0.1:3486 (minecraft-bedrock)
+living-pn.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719726339319 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+cars-dies.gl.at.ply.gg:3486 => 127.0.0.1:3486 (minecraft-bedrock)
+living-pn.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719726342354 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+cars-dies.gl.at.ply.gg:3486 => 127.0.0.1:3486 (minecraft-bedrock)
+living-pn.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719726345412 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+cars-dies.gl.at.ply.gg:3486 => 127.0.0.1:3486 (minecraft-bedrock)
+living-pn.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719726348479 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+cars-dies.gl.at.ply.gg:3486 => 127.0.0.1:3486 (minecraft-bedrock)
+living-pn.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719726351544 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+cars-dies.gl.at.ply.gg:3486 => 127.0.0.1:3486 (minecraft-bedrock)
+living-pn.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719726354590 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+cars-dies.gl.at.ply.gg:3486 => 127.0.0.1:3486 (minecraft-bedrock)
+living-pn.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719726357621 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+cars-dies.gl.at.ply.gg:3486 => 127.0.0.1:3486 (minecraft-bedrock)
+living-pn.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719726360654 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+cars-dies.gl.at.ply.gg:3486 => 127.0.0.1:3486 (minecraft-bedrock)
+living-pn.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719726363701 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+cars-dies.gl.at.ply.gg:3486 => 127.0.0.1:3486 (minecraft-bedrock)
+living-pn.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719726366746 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+cars-dies.gl.at.ply.gg:3486 => 127.0.0.1:3486 (minecraft-bedrock)
+living-pn.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719726369781 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+cars-dies.gl.at.ply.gg:3486 => 127.0.0.1:3486 (minecraft-bedrock)
+living-pn.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719726372941 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+cars-dies.gl.at.ply.gg:3486 => 127.0.0.1:3486 (minecraft-bedrock)
+living-pn.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719726375982 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+cars-dies.gl.at.ply.gg:3486 => 127.0.0.1:3486 (minecraft-bedrock)
+living-pn.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719726379040 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+cars-dies.gl.at.ply.gg:3486 => 127.0.0.1:3486 (minecraft-bedrock)
+living-pn.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719726382075 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+cars-dies.gl.at.ply.gg:3486 => 127.0.0.1:3486 (minecraft-bedrock)
+living-pn.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719726385114 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+cars-dies.gl.at.ply.gg:3486 => 127.0.0.1:3486 (minecraft-bedrock)
+living-pn.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719726388156 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+cars-dies.gl.at.ply.gg:3486 => 127.0.0.1:3486 (minecraft-bedrock)
+living-pn.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719726391186 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+cars-dies.gl.at.ply.gg:3486 => 127.0.0.1:3486 (minecraft-bedrock)
+living-pn.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719726394233 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+cars-dies.gl.at.ply.gg:3486 => 127.0.0.1:3486 (minecraft-bedrock)
+living-pn.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719726397291 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+cars-dies.gl.at.ply.gg:3486 => 127.0.0.1:3486 (minecraft-bedrock)
+living-pn.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719726400325 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+cars-dies.gl.at.ply.gg:3486 => 127.0.0.1:3486 (minecraft-bedrock)
+living-pn.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719726403361 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+cars-dies.gl.at.ply.gg:3486 => 127.0.0.1:3486 (minecraft-bedrock)
+living-pn.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719726406400 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+cars-dies.gl.at.ply.gg:3486 => 127.0.0.1:3486 (minecraft-bedrock)
+living-pn.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719726409430 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+cars-dies.gl.at.ply.gg:3486 => 127.0.0.1:3486 (minecraft-bedrock)
+living-pn.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719726412471 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+cars-dies.gl.at.ply.gg:3486 => 127.0.0.1:3486 (minecraft-bedrock)
+living-pn.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719726415505 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+cars-dies.gl.at.ply.gg:3486 => 127.0.0.1:3486 (minecraft-bedrock)
+living-pn.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719726418552 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+cars-dies.gl.at.ply.gg:3486 => 127.0.0.1:3486 (minecraft-bedrock)
+living-pn.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719726421592 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+cars-dies.gl.at.ply.gg:3486 => 127.0.0.1:3486 (minecraft-bedrock)
+living-pn.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719726424645 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+cars-dies.gl.at.ply.gg:3486 => 127.0.0.1:3486 (minecraft-bedrock)
+living-pn.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719726427733 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+cars-dies.gl.at.ply.gg:3486 => 127.0.0.1:3486 (minecraft-bedrock)
+living-pn.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719726430767 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+cars-dies.gl.at.ply.gg:3486 => 127.0.0.1:3486 (minecraft-bedrock)
+living-pn.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719726433845 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+cars-dies.gl.at.ply.gg:3486 => 127.0.0.1:3486 (minecraft-bedrock)
+living-pn.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719726436883 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+cars-dies.gl.at.ply.gg:3486 => 127.0.0.1:3486 (minecraft-bedrock)
+living-pn.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719726439916 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+cars-dies.gl.at.ply.gg:3486 => 127.0.0.1:3486 (minecraft-bedrock)
+living-pn.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719726443011 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+cars-dies.gl.at.ply.gg:3486 => 127.0.0.1:3486 (minecraft-bedrock)
+living-pn.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719726446101 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+cars-dies.gl.at.ply.gg:3486 => 127.0.0.1:3486 (minecraft-bedrock)
+living-pn.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719726449134 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+cars-dies.gl.at.ply.gg:3486 => 127.0.0.1:3486 (minecraft-bedrock)
+living-pn.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719726452269 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+cars-dies.gl.at.ply.gg:3486 => 127.0.0.1:3486 (minecraft-bedrock)
+living-pn.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719726455318 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+cars-dies.gl.at.ply.gg:3486 => 127.0.0.1:3486 (minecraft-bedrock)
+living-pn.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719726458368 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+cars-dies.gl.at.ply.gg:3486 => 127.0.0.1:3486 (minecraft-bedrock)
+living-pn.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719726461416 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+cars-dies.gl.at.ply.gg:3486 => 127.0.0.1:3486 (minecraft-bedrock)
+living-pn.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719726464474 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+cars-dies.gl.at.ply.gg:3486 => 127.0.0.1:3486 (minecraft-bedrock)
+living-pn.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719726467524 tunnel running, 2 tunnels registered
 
 
 TUNNELS
